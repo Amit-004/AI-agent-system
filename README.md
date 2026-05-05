@@ -151,5 +151,4 @@ Tests must pass without an `OPENAI_API_KEY` set — mock the LLM. We will run `p
 
 ## Environment
 
-You self-host everything. We do not provide credentials. See `.env.example` for the variables you'll need.
-
+You self-host everything. We do not provide credentials. See `.env.example` for the varia
