@@ -1,5 +1,5 @@
 
-# Valura AI Microservice — Assignment
+# Assignment
 
 ## Overview
 
