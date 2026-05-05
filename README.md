@@ -36,17 +36,6 @@ User Query → Safety Guard → Intent Classifier → Agent Router → Response 
 - Uses Server-Sent Events (SSE)  
 - Events: classification, response, done  
 
-# Valura AI — Team Lead Project Assignment
-
-You have been given access to this repository as part of the Valura AI team lead hiring process.
-
-**Read [`ASSIGNMENT.md`](ASSIGNMENT.md) in full before writing a single line of code.**
-
----
-
-## What you're building
-
-An AI agent ecosystem that helps a novice investor **build, monitor, grow, and protect** their portfolio. See [`ASSIGNMENT.md`](ASSIGNMENT.md) for the full mission, scope, and constraints.
 
 
 ## Setup
@@ -156,32 +145,7 @@ Tests must pass without an `OPENAI_API_KEY` set — mock the LLM. We will run `p
 
 ---
 
-## Repository Structure
 
-When you submit, your repository must contain:
-
-```
-README.md   ← overwrite this with your own (setup, decisions, library choices, video link)
-src/        ← all code
-tests/      ← all tests, must pass with pytest
-```
-
-`fixtures/`, `pytest.ini`, `requirements.txt`, `.env.example`, and `.github/` are part of the scaffold — leave them in place. Do not delete `ASSIGNMENT.md`.
-
----
-
-## Submission
-
-- Push commits **throughout** your work — we read the git log
-- Your `README.md` must:
-  - Explain how to run your code
-  - List every required environment variable
-  - Document the non-obvious decisions you made
-  - Link your defence video (≤ 10 min — see `ASSIGNMENT.md`)
-- Deadline: **3 days** from the date you accepted this assignment
-- Defence video: due within **24 hours** of your final commit
-
----
 
 ## Environment
 
