@@ -39,24 +39,26 @@ User Query → Safety Guard → Intent Classifier → Agent Router → Response 
 
 
 ## Setup
-Requirements: Python 3.11+
+### Requirements
+- Python 3.11+
 
-Installation:
+### Installation
 
-git clone <repo-url>  
-cd <repo-name>  
+```bash
+git clone <your-repo-url>
+cd <repo-name>
 
-python -m venv venv  
+python -m venv venv
 
-Windows:  
-venv\Scripts\activate  
+# Activate virtual environment
 
-macOS/Linux:  
-source venv/bin/activate  
+# Windows
+venv\Scripts\activate
 
-pip install -r requirements.txt  
+# macOS/Linux
+source venv/bin/activate
 
----
+pip install -r requirements.txt
 
 ## Run Tests
 
